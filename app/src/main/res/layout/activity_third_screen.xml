@@ -5,7 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ThirdScreenActivity">
+    android:background="@android:color/white"
+    tools:context=".ui.ThirdScreenActivity">
 
 
     <LinearLayout
@@ -34,7 +35,9 @@
             android:layout_gravity="center"
             android:layout_marginStart="100dp"
             android:text="@string/third_screen"
-            android:textSize="20sp"
+            android:fontFamily="@font/poppins_medium"
+            android:textSize="24sp"
+            android:textColor="@color/black"
             android:textStyle="bold" />
     </LinearLayout>
 

@@ -1,4 +1,4 @@
-package com.example.submission_suitmedia
+package com.example.submission_suitmedia.ui
 
 import android.app.AlertDialog
 import android.content.Intent
@@ -7,6 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.submission_suitmedia.R
 import com.example.submission_suitmedia.databinding.ActivityFirstScreenBinding
 
 class FirstScreenActivity : AppCompatActivity() {
@@ -43,7 +44,7 @@ class FirstScreenActivity : AppCompatActivity() {
                     showDialog("Hello, $text! You are not a Palindrome")
                 }
             } else {
-                showDialog("Username cannot be empty!")
+                showDialog("Palindrome cannot be empty!")
             }
         }
     }

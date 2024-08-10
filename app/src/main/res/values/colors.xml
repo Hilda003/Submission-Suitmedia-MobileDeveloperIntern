@@ -5,4 +5,5 @@
     <color name="primaryColor">#3498db</color>
     <color name="buttonColor">#2B637B</color>
     <color name="backgroundColor">#ecf0f1</color>
+    <color name="gray">#a0a0a0</color>
 </resources>

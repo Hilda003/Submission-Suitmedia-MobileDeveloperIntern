@@ -10,4 +10,7 @@
     <string name="choose_a_user">Choose a User</string>
     <string name="selected_user_name">Selected User Name</string>
     <string name="name">Name</string>
+    <string name="next">NEXT</string>
+    <string name="check">CHECK</string>
+    <string name="palindrome">Palindrome</string>
 </resources>
