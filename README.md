@@ -68,7 +68,7 @@ This app is designed to display a list of users with the ability to check if a s
 ## APK Distribution
 If you prefer to install the app directly without building it yourself, you can download the latest APK from the following link: Documentation
 
-[Download APK](https://drive.google.com/drive/folders/1CJijHVrhUNItZBeoVtrRspG3NGr0Y5eM?usp=sharing)
+[Download APK](https://drive.google.com/file/d/1Tu3Je921x9CaymHr0V829PpmB5O0bMxN/view?usp=sharing)
 
 
 ## 🔗 Links
