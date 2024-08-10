@@ -13,4 +13,5 @@
     <string name="next">NEXT</string>
     <string name="check">CHECK</string>
     <string name="palindrome">Palindrome</string>
+    <string name="no_users_found">No users found</string>
 </resources>
